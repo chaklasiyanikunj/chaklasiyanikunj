@@ -2,11 +2,6 @@
 
 ### 🚀 Team Lead | Senior Software Engineer | Full Stack Developer | OTT & Streaming Specialist
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chaklasiyanikunj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/chaklasiyanikunj?label=Followers&style=flat" alt="Followers" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -25,10 +20,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://in.linkedin.com/in/nikunj-chaklasiya-846b6b132" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:chaklasiyanikunj@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
