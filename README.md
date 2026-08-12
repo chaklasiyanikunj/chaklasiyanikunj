@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikunj Chaklasiya
 
-<!--
-**chaklasiyanikunj/chaklasiyanikunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Team Lead | Senior Software Engineer | Full Stack Developer | OTT & Streaming
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 7+ years of experience in software development and technical leadership
+- 🚀 Experienced in building SaaS, Web, Mobile, OTT, Streaming and Real-Time applications
+- 🌐 Full Stack development using Angular, React, Node.js and TypeScript
+- 📺 Experienced in OTT development across Roku, Android TV, Apple TV, Fire TV, LG, Samsung, VIDAA and ZEASN
+- ⚡ Experienced in real-time communication using WebRTC, mediasoup and Socket.IO
+- 🎥 Experienced in HLS, Live TV, VOD, EPG, DRM and video streaming
+- 📱 Mobile application development using Swift and Kotlin
+- 🧑‍💼 Currently working as a Team Lead, handling technical planning, development, code reviews, troubleshooting and team coordination
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+Angular • React • TypeScript • JavaScript • HTML • CSS • SCSS
+
+### Backend
+Node.js • REST APIs • Socket.IO
+
+### Real-Time & Streaming
+WebRTC • mediasoup • HLS • DRM • Video Streaming
+
+### Mobile
+Swift • Kotlin • iOS • Android
+
+### OTT & Smart TV
+Roku • Android TV • Apple TV • Fire TV • LG • Samsung • VIDAA • ZEASN
+
+### Other
+SaaS • Full Stack Development • API Integration • SSO • EPG • VOD • Live TV • Subtitles/Closed Captions
